@@ -1,6 +1,7 @@
 deepagents
 langchain-openai
 langchain
+langhain-google-genai
 langchain-groq
 ipykernel
 python-dotenv
